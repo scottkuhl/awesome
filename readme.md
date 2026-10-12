@@ -333,6 +333,8 @@
 - [Frontend GIS](https://github.com/joewdavies/awesome-frontend-gis#readme) - Geographic Information Systems (GIS) for web browsers.
 - [WebGPU](https://github.com/mikbry/awesome-webgpu#readme) - JavaScript API for rendering and compute on GPUs.
 - [WebAssembly](https://github.com/idematos/awesome-webassembly#readme) - A portable binary format for running code efficiently across platforms.
+- [WinUI](https://github.com/scottkuhl/awesome-winui#readme) - Official .NET UI framework containing modern controls and styles for building Windows apps.
+
 
 ## Back-End Development
 
